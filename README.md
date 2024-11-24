@@ -1,7 +1,7 @@
 # image data extract
 
 ## Overview
-Extracting data from images is matter. Imagine you have a llm-based chatbot which is using your documents to answer your questions. PDF documents can be pure, scanned or combined. Each of which may contains image.
+Extracting data from images is matters. Imagine you have a llm-based chatbot which is using your documents to answer your questions. PDF documents can be pure, scanned or combined. Each of which may contains image.
 This project is here to help. It Extracts data from images containing tables, math formula or expression an so on. Enjoy using it.
 
 ## Features
