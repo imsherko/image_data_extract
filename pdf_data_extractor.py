@@ -320,5 +320,5 @@ def extract_image_data(encoded_image: base64) -> str:
 
 
 if __name__ == '__main__':
-    path = 'documents/golrang_system/100.pdf'
+    path = 'path to your pdf document'
     print(extract_pdf_data(path))
